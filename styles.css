@@ -1,0 +1,162 @@
+body {
+    background-color: aquamarine;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+h1 {
+    padding-top: 30px;
+    margin: 0;
+}
+
+h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-family: 'Cookie', cursive;
+    font-size:x-large;
+    margin: 0;
+    padding-top: 20px;
+}
+
+span {
+    text-decoration: underline;
+}
+hr {
+    background-color: aquamarine;
+    border-style:none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+}
+ul {
+    text-align: left;
+    margin-top: 0;
+    font-size: 30px;
+}
+.heading {
+    background-color: darkorchid;
+    margin: 50px auto 30px auto;
+    border: solid 5px;
+    height: 150px;
+    width: 300px;
+}
+.penguin {
+    position: relative;
+    background-color: aqua;
+    border: solid 5px;
+    display: inline-block;
+    height: 300px;
+    width: 700px;
+
+}
+
+.walrus {
+    position: relative;
+    background-color: burlywood;
+    border: solid 5px;
+    display: inline-block;
+    height: 300px;
+    width: 700px;
+
+}
+
+.lizard {
+    position: relative;
+    background-color: darkseagreen;
+    border: solid 5px;
+    height: 300px;
+    display: inline-block;
+    width: 700px;
+    margin-top: 5px;
+    margin-bottom: 50px;
+}
+
+.bye {
+    background-color: rgb(185, 120, 218);
+    border: solid 5px;
+    position: relative;
+    height: 200px;
+    width: 500px;
+    margin: 30px auto 50px auto;
+}
+.troll {
+    padding-bottom: 30px;
+}
+
+.walrus-img1 {
+    border: solid 5px;
+    position: absolute;
+    height: 200px;
+    width: 150px;
+    top: 50px;
+    right: 50px;
+}
+.walrus-img2 {
+    border: solid 5px;
+    position: absolute;
+    height: 200px;
+    width: 220px;
+    top: 50px;
+    right: 270px;
+}
+
+.penguin-img1 {
+    border: solid 5px;
+    position: absolute;
+    height: 200px;
+    width: 220px;
+    top: 50px;
+    right: 280px;
+}
+.penguin-img2{
+    border: solid 5px;
+    position: absolute;
+    height: 200px;
+    width: 220px;
+    top: 50px;
+    right: 40px;  
+}
+.lizard-img1 {
+    border: solid 5px;
+    position: absolute;
+    height: 200px;
+    width: 240px;
+    top: 50px;
+    right: 290px; 
+}
+
+.lizard-img2 {
+    border: solid 5px;
+    position: absolute;
+    height: 200px;
+    width: 220px;
+    top: 50px;
+    right: 40px;    
+}
+.cloud1 {
+    position: absolute;
+    top: 50px;
+    left: 150px;
+    width: 300px;
+    height: 100px;
+}
+.cloud2 {
+    position: absolute;
+    top: 50px;
+    right: 150px;
+    width: 300px;
+    height: 100px;
+} 
+#groundhog-img {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 80px;
+    width: 150px;
+}
